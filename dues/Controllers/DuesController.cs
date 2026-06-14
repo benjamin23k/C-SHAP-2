@@ -51,7 +51,6 @@ namespace DuesApi.Controllers
             return CreatedAtAction(nameof(GetById), new { id = due.Id }, due);
         }
 
-        // Generate monthly dues for all apartments
         [HttpPost("generate-monthly")]
         public async Task<ActionResult<IEnumerable<Due>>> GenerateMonthly(int month, int year)
         {
@@ -91,7 +90,7 @@ namespace DuesApi.Controllers
             return NoContent();
         }
 
-        // Debt report grouped by apartment
+     
         [HttpGet("reports/debts")]
         public async Task<ActionResult<IEnumerable<DebtReportDto>>> DebtReport()
         {
@@ -111,7 +110,7 @@ namespace DuesApi.Controllers
             return Ok(report);
         }
 
-        // Mark overdue dues
+       
         [HttpPost("update-overdue")]
         public async Task<IActionResult> UpdateOverdue()
         {
