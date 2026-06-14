@@ -2,13 +2,39 @@ using DuesApi.Models;
 
 namespace DuesApi.Models.Dtos
 {
-    public record ResidentDto(string Name, int ApartmentId);
+    public class ResidentDto
+    {
+        public string Name { get; set; } = string.Empty;
+        public int ApartmentId { get; set; }
+    }
 
-    public record ApartmentDto(string Number, decimal MonthlyFee);
+    public class ApartmentDto
+    {
+        public string Number { get; set; } = string.Empty;
+        public decimal MonthlyFee { get; set; }
+    }
 
-    public record DueDto(int ApartmentId, int Month, int Year, decimal Amount, DateTime DueDate);
+    public class DueDto
+    {
+        public int ApartmentId { get; set; }
+        public int Month { get; set; }
+        public int Year { get; set; }
+        public decimal Amount { get; set; }
+        public DateTime DueDate { get; set; }
+    }
 
-    public record PaymentDto(int DueId, decimal Amount, PaymentMethod Method);
+    public class PaymentDto
+    {
+        public int DueId { get; set; }
+        public decimal Amount { get; set; }
+        public PaymentMethod Method { get; set; }
+    }
 
-    public record DebtReportDto(int ApartmentId, string ApartmentNumber, decimal TotalDebt, int PendingDues);
+    public class DebtReportDto
+    {
+        public int ApartmentId { get; set; }
+        public string ApartmentNumber { get; set; } = string.Empty;
+        public decimal TotalDebt { get; set; }
+        public int PendingDues { get; set; }
+    }
 }
