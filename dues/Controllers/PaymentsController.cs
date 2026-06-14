@@ -28,7 +28,7 @@ namespace DuesApi.Controllers
         public async Task<ActionResult<IEnumerable<Payment>>> GetByDue(int dueId) =>
             await _db.Payments.Where(p => p.DueId == dueId).ToListAsync();
 
-        // Register a payment, updates the due's balance/status
+      
         [HttpPost]
         public async Task<ActionResult<Payment>> Create(PaymentDto dto)
         {
@@ -54,7 +54,7 @@ namespace DuesApi.Controllers
             return CreatedAtAction(nameof(GetById), new { id = payment.Id }, payment);
         }
 
-        // Receipt for a payment
+     
         [HttpGet("{id}/receipt")]
         public async Task<IActionResult> GetReceipt(int id)
         {
