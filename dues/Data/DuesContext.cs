@@ -15,6 +15,6 @@ namespace DuesApi.Data
         public DbSet<Due> Dues => Set<Due>();
         public DbSet<Payment> Payments => Set<Payment>();
 
-        }
+        
     }
 }
