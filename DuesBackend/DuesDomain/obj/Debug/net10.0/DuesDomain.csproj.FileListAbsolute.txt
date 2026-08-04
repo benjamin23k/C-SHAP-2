@@ -1,0 +1,11 @@
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesDomain\bin\Debug\net10.0\DuesDomain.deps.json
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesDomain\bin\Debug\net10.0\DuesDomain.dll
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesDomain\bin\Debug\net10.0\DuesDomain.pdb
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesDomain\obj\Debug\net10.0\DuesDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesDomain\obj\Debug\net10.0\DuesDomain.AssemblyInfoInputs.cache
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesDomain\obj\Debug\net10.0\DuesDomain.AssemblyInfo.cs
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesDomain\obj\Debug\net10.0\DuesDomain.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesDomain\obj\Debug\net10.0\DuesDomain.dll
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesDomain\obj\Debug\net10.0\refint\DuesDomain.dll
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesDomain\obj\Debug\net10.0\DuesDomain.pdb
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesDomain\obj\Debug\net10.0\ref\DuesDomain.dll
