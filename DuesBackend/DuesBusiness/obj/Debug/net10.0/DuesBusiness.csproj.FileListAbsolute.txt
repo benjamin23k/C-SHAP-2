@@ -1,0 +1,17 @@
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesBusiness\bin\Debug\net10.0\DuesBusiness.deps.json
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesBusiness\bin\Debug\net10.0\DuesBusiness.dll
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesBusiness\bin\Debug\net10.0\DuesBusiness.pdb
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesBusiness\obj\Debug\net10.0\DuesBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesBusiness\obj\Debug\net10.0\DuesBusiness.AssemblyInfoInputs.cache
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesBusiness\obj\Debug\net10.0\DuesBusiness.AssemblyInfo.cs
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesBusiness\obj\Debug\net10.0\DuesBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesBusiness\obj\Debug\net10.0\DuesBusiness.dll
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesBusiness\obj\Debug\net10.0\refint\DuesBusiness.dll
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesBusiness\obj\Debug\net10.0\DuesBusiness.pdb
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesBusiness\obj\Debug\net10.0\ref\DuesBusiness.dll
+c:\Users\Benjamin\Desktop\src\FinalProyect\DuesBusiness\obj\Debug\net10.0\DuesBusiness.csproj.AssemblyReference.cache
+c:\Users\Benjamin\Desktop\src\FinalProyect\DuesBusiness\bin\Debug\net10.0\Dues.Domain.dll
+c:\Users\Benjamin\Desktop\src\FinalProyect\DuesBusiness\bin\Debug\net10.0\Dues.Infrastructure.dll
+c:\Users\Benjamin\Desktop\src\FinalProyect\DuesBusiness\bin\Debug\net10.0\Dues.Domain.pdb
+c:\Users\Benjamin\Desktop\src\FinalProyect\DuesBusiness\bin\Debug\net10.0\Dues.Infrastructure.pdb
+C:\Users\Benjamin\Desktop\src\FinalProyect\DuesBusiness\obj\Debug\net10.0\DuesBusi.BD083486.Up2Date
